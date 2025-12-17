@@ -44,6 +44,11 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 ---
 [![](https://visitcount.itsvg.in/api?id=Saymon72ahmed&icon=2&color=1)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nr725yiuh2b7jhndacutgsp5ji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/+8801617582960) 
 
