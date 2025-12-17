@@ -10,6 +10,17 @@ I am an **ICT Undergraduate** at the **Bangladesh University of Professionals (B
 * 🎨 **Design:** I believe functionality needs form—integrating UI/UX principles into every project.
 * 🌱 **Current Goal:** advancing my skills in Deep Learning and contributing to Open Source.
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 2 mins    ████████████████████░░░░░   79.46 %
+JSON         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+```
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saymon06084) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saymon Ahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saymonahamed55) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saymon Ahmed ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saymonahammed13@gmail.com) 
