@@ -1,8 +1,14 @@
 # 💫 About Me:
 
-Hi, I'm **Saymon Ahmed**! 👋
-I am an ICT Undergraduate at **Bangladesh University of Professionals (BUP)**. 
-I specialize in **Machine Learning**, **Data Analysis**, and **UI/UX Design**. currently creating data-driven AI agents and web applications to solve real-world problems.
+# 💫 About Me
+Hi, I'm **Saymon Ahmed**! 👋  
+
+I am an **ICT Undergraduate** at the **Bangladesh University of Professionals (BUP)**, passionate about solving real-world problems through code. My journey involves bridging the gap between complex data and user-friendly applications.
+
+* 🔭 **Focus:** Building data-driven AI agents and scalable web applications.
+* 💡 **Specialization:** Machine Learning, Data Analytics, and Full-Stack Development.
+* 🎨 **Design:** I believe functionality needs form—integrating UI/UX principles into every project.
+* 🌱 **Current Goal:** advancing my skills in Deep Learning and contributing to Open Source.
 
 
 ## 🌐 Socials:
