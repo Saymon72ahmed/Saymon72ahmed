@@ -47,7 +47,7 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 
 <br>
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr725yiuh2b7jhndacutgsp5ji&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr725yiuh2b7jhndacutgsp5ji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400" />
 </div>
 <br>
 
