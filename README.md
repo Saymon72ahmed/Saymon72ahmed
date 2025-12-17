@@ -44,9 +44,12 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 ---
 [![](https://visitcount.itsvg.in/api?id=Saymon72ahmed&icon=2&color=1)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nr725yiuh2b7jhndacutgsp5ji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
+<br>
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nr725yiuh2b7jhndacutgsp5ji&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400" />
+</div>
+<br>
 
 
   ## 💰 You can help me by Donating
