@@ -57,6 +57,21 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 ### 🎨 Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+### 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/Saymon72ahmed/saymon-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=saymon-project&theme=radical" alt="Saymon Project" />
+  </a>
+  <a href="https://github.com/Saymon72ahmed/Ai-data-analysis-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-data-analysis-agent&theme=radical" alt="AI Data Analysis Agent" />
+  </a>
+  <a href="https://github.com/Saymon72ahmed/Ai-health-companion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-health-companion&theme=radical" alt="AI Health Companion" />
+  </a>
+</div>
+
+
 
 
 # 📊 GitHub Stats:
