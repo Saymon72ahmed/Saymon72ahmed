@@ -59,6 +59,12 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 
 ### 📌 Pinned Projects
 
+<div align="right">
+  <a href="https://github.com/Saymon72ahmed/Saymon72ahmed/edit/main/README.md">
+    <img src="https://img.shields.io/badge/⚙️_Change_Pinned_Projects-Click_Here_to_Edit-gray?style=flat-square" alt="Change Projects" />
+  </a>
+</div>
+
 <table>
   <tr>
     <td width="33%" align="center">
