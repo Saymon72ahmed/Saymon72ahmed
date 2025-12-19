@@ -124,6 +124,15 @@ Here are my top projects categorized by domain.
 
 ---
 
+#### 📂 Core Projects & Resources
+| Project Name | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **Saymon Project** | My personal project repository showcasing various development skills. | ![Code](https://img.shields.io/badge/Code-General-lightgrey) | [View Code](https://github.com/Saymon72ahmed/saymon-project) |
+| **Awesome LLM Apps** | A curated collection of Large Language Model applications. | ![LLM](https://img.shields.io/badge/LLM-Resource-yellow) | [View Code](https://github.com/Saymon72ahmed/awesome-llm-apps) |
+| **500 AI Agents Projects** | A massive resource compilation for AI Agent development. | ![Research](https://img.shields.io/badge/Research-AI-blue) | [View Code](https://github.com/Saymon72ahmed/500-AI-Agents-Projects) |
+
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
