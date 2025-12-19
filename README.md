@@ -87,7 +87,7 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills which i have used sofar in building projest
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
