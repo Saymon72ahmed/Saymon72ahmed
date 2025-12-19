@@ -60,15 +60,19 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 ### 📌 Pinned Projects
 
 <div align="center">
+
   <a href="https://github.com/Saymon72ahmed/saymon-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=saymon-project&theme=radical" alt="Saymon Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=saymon-project&theme=radical" alt="Project 1" />
   </a>
+
   <a href="https://github.com/Saymon72ahmed/Ai-data-analysis-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-data-analysis-agent&theme=radical" alt="AI Data Analysis Agent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-data-analysis-agent&theme=radical" alt="Project 2" />
   </a>
+
   <a href="https://github.com/Saymon72ahmed/Ai-health-companion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-health-companion&theme=radical" alt="AI Health Companion" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saymon72ahmed&repo=Ai-health-companion&theme=radical" alt="Project 3" />
   </a>
+
 </div>
 
 
