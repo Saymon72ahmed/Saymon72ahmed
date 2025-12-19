@@ -64,6 +64,83 @@ Markdown     9 mins          ▓░░░░░░░░░░░░░░░░
 ![](https://nirzak-streak-stats.vercel.app/?user=Saymon72ahmed&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon72ahmed&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Saymon%20Ahmed&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<h1 align="center">IT Undergraduate & Aspiring Data Analyst</h1>
+
+<p align="center">
+  <a href="https://github.com/Saymon72ahmed">
+    <img src="https://komarev.com/ghpvc/?username=Saymon72ahmed&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I am an **IT Undergraduate** student passionate about technology.
+- 📊 Currently focusing on **Data Analytics**, **AI Agents**, and **Machine Learning**.
+- 🔭 I have built projects ranging from **AI Health Companions** to **Data Analysis Agents**.
+- 🇧🇩 Aspiring to contribute to the tech landscape in Bangladesh.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+Here are my top projects categorized by domain.
+
+#### 🤖 AI & Machine Learning
+| Project Name | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **AI Data Analysis Agent** | An intelligent agent designed to automate data insights and analysis tasks. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Agent-orange) | [View Code](https://github.com/Saymon72ahmed/Ai-data-analysis-agent) |
+| **AI Health Companion** | A health-focused AI application for personalized wellness tracking. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Health](https://img.shields.io/badge/Health-AI-red) | [View Code](https://github.com/Saymon72ahmed/Ai-health-companion) |
+| **Checkers AI Game** | A strategy game implementation with an AI opponent. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Game](https://img.shields.io/badge/Game-Dev-purple) | [View Code](https://github.com/Saymon72ahmed/checkers-ai-game) |
+| **Image Classifier** | A machine learning model for classifying images. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![CV](https://img.shields.io/badge/CV-Vision-blue) | [View Code](https://github.com/Saymon72ahmed/image-classifier) |
+
+#### 📂 Core Projects & Resources
+| Project Name | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **Saymon Project** | My personal project repository showcasing various development skills. | ![Code](https://img.shields.io/badge/Code-General-lightgrey) | [View Code](https://github.com/Saymon72ahmed/saymon-project) |
+| **Awesome LLM Apps** | A curated collection of Large Language Model applications. | ![LLM](https://img.shields.io/badge/LLM-Resource-yellow) | [View Code](https://github.com/Saymon72ahmed/awesome-llm-apps) |
+| **500 AI Agents Projects** | A massive resource compilation for AI Agent development. | ![Research](https://img.shields.io/badge/Research-AI-blue) | [View Code](https://github.com/Saymon72ahmed/500-AI-Agents-Projects) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saymon72ahmed&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saymon72ahmed&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@gmail.com)
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saymon72ahmed&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
